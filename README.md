@@ -7,28 +7,42 @@ Mata kuliah	: Sistem operasi
 1.Install virtual box
 
 ![Gambar 1](gambar-01.jpeg)
+![Gambar 2](gambar-02.jpeg)
 
 2.Install ubuntu 24.04.4
- 
+ ![Gambar 3](gambar-03.jpeg)
+ ![Gambar 4](gambar-04.jpeg)
  
 3.Setting virtual box untuk ubuntu
- 
+ ![Gambar 5](gambar-05.jpeg)
+ ![Gambar 6](gambar-06.jpeg)
+ ![Gambar 7](gambar-07.jpeg)
+ ![Gambar 8](gambar-08.jpeg)
+ ![Gambar 9](gambar-099.jpeg)
+ ![Gambar 10](gambar-10.jpeg)
  
 
- 
  
  
  
 4.lanjut masuk keubuntu
 1.fase awal
- 
- 
+![Gambar 11](gambar-11.jpeg)
+![Gambar 12](gambar-12.jpeg)
+![Gambar 13](gambar-13.jpeg)
+![Gambar 14](gambar-14.jpeg)
+![Gambar 15](gambar-15.jpeg)
+![Gambar 16](gambar-16.jpeg)
  
  
  
  
 2.fase buat akun dan login 
- 
+ ![Gambar 17](gambar-17.jpeg)
+ ![Gambar 18](gambar-18.jpeg)
+ ![Gambar 19](gambar-19.jpeg)
+ ![Gambar 20](gambar-20.jpeg)
+ ![Gambar 21](gambar-21.jpeg)
  
  
  
@@ -36,11 +50,14 @@ Mata kuliah	: Sistem operasi
 
 2. Analisislah pada gambar kenapa saat instalasi perlu dipilih “/” pada opsi Mount Point ? 
 Jawaban:
+
 Mount Point / disebut root directory (root filesystem) dan merupakan direktori utama dalam sistem Linux. Semua file dan direktori penting sistem Ubuntu berada di bawah /, seperti /home, /etc, /var, /usr, dan lainnya.
 Oleh karena itu, ketika membuat partisi untuk instalasi Ubuntu, partisi utama harus diberikan Mount Point / agar Ubuntu mengetahui bahwa partisi tersebut digunakan sebagai filesystem utama untuk menjalankan sistem operasi.
 Jika tidak ada partisi yang dipasang sebagai /, installer tidak memiliki lokasi utama untuk memasang sistem Ubuntu sehingga proses instalasi tidak dapat dilakukan dengan benar.
+
 3. Berikan penjelasan tentang ext4, ext3, swap, ntfs, fat32,btrfs !
 Jawaban:
+
 1.ext4
 Filesystem Linux yang paling umum digunakan. Stabil, cepat, mendukung ukuran file dan partisi besar, serta memiliki fitur journaling.
 2.ext3
