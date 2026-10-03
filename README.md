@@ -1,7 +1,10 @@
 # 09011382530143_M.Irpan_Tugas-1-Sistem-operasi-
 Nama 	:  M.Irpan
+
 Nim	: 09011382530143
+
 Mata kuliah	: Sistem operasi
+
  Tugas
 1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya.
 
