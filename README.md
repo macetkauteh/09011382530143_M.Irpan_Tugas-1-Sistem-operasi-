@@ -3,7 +3,8 @@ Nama 	:  M.Irpan
 Nim	: 09011382530143
 Mata kuliah	: Sistem operasi
  Tugas
-1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya. 
+1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya.
+
 1.Install virtual box
 
 ![Gambar 1](gambar-01.jpeg)
