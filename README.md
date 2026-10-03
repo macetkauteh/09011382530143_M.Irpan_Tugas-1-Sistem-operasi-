@@ -5,7 +5,8 @@ Mata kuliah	: Sistem operasi
  Tugas
 1. Buatlah laporan proses instalasi di komputer mahasiswa dan tampilkan screenshot-nya. 
 1.Install virtual box
- 
+ gambar-01.jpeg
+gambar-02.jpeg
  
 
 2.Install ubuntu 24.04.4
